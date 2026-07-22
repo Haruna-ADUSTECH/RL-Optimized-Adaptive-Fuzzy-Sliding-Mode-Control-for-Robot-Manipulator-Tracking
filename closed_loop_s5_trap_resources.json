@@ -1,0 +1,16 @@
+{
+  "pc_specs": {
+    "Processor": "Intel(R) Core(TM) i5-7200U CPU @ 2.50GHz (2.71GHz boost)",
+    "Installed RAM": "8.00 GB (7.88 GB usable)",
+    "System type": "64-bit operating system, x64-based processor",
+    "OS": "Ubuntu 22.04.5 LTS (WSL2, kernel 6.18.33.2-microsoft-standard-WSL2)"
+  },
+  "n_samples": 112,
+  "cpu_mean": 2.7576576576576577,
+  "cpu_max": 96.7,
+  "mem_mean_mb": 32.118129185267854,
+  "mem_max_mb": 32.1875,
+  "achieved_hz": 0.8598282231478417,
+  "n_steps": 20,
+  "elapsed_s": 23.260460010000315
+}
